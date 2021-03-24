@@ -1,0 +1,22 @@
+
+table_head_data={
+
+            
+      "Net Profit on Agri": "100000",
+      "Monthly Family Expenses": "10000",
+      "Loan Applied Amount": "10",
+      "Total Input Cost per acre": "10",
+      "Total cultivated acre for applied crop": "10",
+      "The number of overlapping loans with other lenders": "2",
+      "The historical number of loans with Maha": "100000",
+      "Number of Late days": "5",
+      "The number of harvest in a given year": "10000",
+      "How many different crops at the same time": "2",
+      "Land Holding": "10",
+      "Village or ward Admin": "Strongly Recommend",
+      "House status": "Brick Nogging",
+      "Saving with Maha": "Yes",
+      "Age": "5",
+      "Crop": "Sesame",
+      "Region": "Kachin",
+}

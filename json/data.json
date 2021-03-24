@@ -1,0 +1,108 @@
+data = [
+    {
+        // Params for NON-FINANCIAL PARAMETERS Cards
+        "data":{
+            "Region": "Bago Region", 
+            "Crops": "Water Melon", 
+            "Village_Admin_Recommendation": "Strongly Recommend",
+            "Age": "5",
+            "Total_Land_Holding_Acre": "100",
+            "identifier":"005072af-1c01-4d7c-83cd-49b0c7bca072"
+        }
+    },
+    {
+        // Params for  V6 Farmer Old Loan Score Card
+        "data":{
+            "Monthly_Family_Expenses": "100000","Loan_Applied_Amount": "100000",
+            "Total_Input_Cost_per_acre": "10",
+            "Total_cultivated_acre_for_applied_crop": "5",
+            "Total_monthly_installment_for_current_loan_outstanding": "10000",
+            "Total_revenue_from_other_sources__per_month": "1",
+            "Yield_per_acre": "1",
+            "Price_per_unit_of_yield": "10000",
+            "The_number_of_overlapping_loans_with_other_lenders": "1",
+            "The_historical_number_of_loans_with_Maha": "1",
+            "Number_of_Late_days": "1",
+            "The_number_of_harvest_in_a_given_year": "1",
+            "How_many_different_crops_at_the_same_time": "1",
+            "Land_Holding": "1",
+            "Village_or_ward_Admin": "Strongly Recommend",
+            "House_status": "Others",
+            "Saving_with_Maha": "Yes",
+            "Age": "10",
+            "Region": "Magwae",
+            "Crop": "Sesame",
+            "identifier": "7b808eac-0837-4bc9-9275-531392359ca1"
+        }
+    },
+    {
+        // Params for  Financial Parameters Score Card
+        "data":{
+            "Net_Profit_on_Agri": "100000",
+            "Monthly_Family_Expenses": "10000",
+            "Loan_Applied_Amount": "10",
+            "Total_Input_Cost_per_acre": "10",
+            "Total_cultivated_acre_for_applied_crop": "10",
+            "identifier":"34adff89-dc54-47f4-bce7-da0cc526a9e0"
+        }
+    },
+    {
+        // Params for NON-FINANCIAL PARAMETER SCORE
+        "data":{
+            "The_number_of_overlapping_loans_with_other_lenders": "2",
+            "The_historical_number_of_loans_with_Maha": "100000",
+            "Number_of_Late_days": "5",
+            "The_number_of_harvest_in_a_given_year": "10000",
+            "How_many_different_crops_at_the_same_time": "2",
+            "Land_Holding": "10",
+            "Village_or_ward_Admin": "Strongly Recommend",
+            "House_status": "Brick Nogging",
+            "Saving_with_Maha": "Yes",
+            "Age": "5",
+            "Crop": "Sesame",
+            "Region": "Kachin",
+            "identifier": "6a07687b-770b-4c3c-909d-ad4ab3ca107b"
+        }
+
+    },
+
+    {
+        "data" :{
+            "The_historical_number_of_loans_with_Maha": "2",
+            "Existing_Loan_outstanding_amount": "10000",
+            "Loan_Applied_amount": "40000",
+            "Value_of_the_Machinery": "23",
+            "Recommended_Loan_Term": "100000",
+            "Total_Land_holding": "23",
+            "Total_Family_Expenses_Monthly": "15000",
+            "Total_revenue_from_other_sources_per_month": "10000",
+            "Total_monthly_installment_amount_for_other_loan_outstanding": "10000",
+            "Current_Crop_Name": "Green Gram",
+            "Total_cultivated_land_for_current_crop": "10000",
+            "Total_Input_cost_per_acre_for_current_crop": "10",
+            "Yield_per_acre_for_current_crop": "10",
+            "Price_per_unit_of_Yield_for_current_crop": "10",
+            "Next_Crop_Name_1": "Paddy",
+            "Total_cultivated_land_for_next_crop_1": "10",
+            "Total_Input_cost_per_acre_for_next_crop_1": "10",
+            "Yield_per_acre_for_next_crop_1": "10",
+            "Price_per_unit_of_Yield_for_next_crop_1": "10",
+            "Next_Crop_Name_2": "Sesame",
+            "Total_cultivated_land_for_next_crop_2": "0",
+            "Total_Input_cost_per_acre_for_next_crop_2": "0",
+            "Yield_per_acre_for_next_crop_2": "0",
+            "Price_per_unit_of_Yield_for_next_crop_2": "0",
+            "Next_Crop_Name_3": "Green Gram",
+            "Total_cultivated_land_for_next_crop_3": "0",
+            "Total_Input_cost_per_acre_for_next_crop_3": "0",
+            "Yield_per_acre_for_next_crop_3": "0",
+            "Price_per_unit_of_Yield_for_next_crop_3": "0",
+            "Next_Crop_Name_4": "Paddy",
+            "Total_cultivated_land_for_next_crop_4": "0",
+            "Total_Input_cost_per_acre_for_next_crop_4": "0",
+            "Yield_per_acre_for_next_crop_4": "0",
+            "Price_per_unit_of_Yield_for_next_crop_4": "0",
+            "identifier": "745e5df2-9cbe-40a5-bb37-644a1bb4e175"
+        }
+    }
+]
