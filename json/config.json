@@ -3,7 +3,7 @@ config = {
     "score_card_name":
     [ 
         // {"name" : "Non-Financial Parameters", "version": [1]}, 
-        {"name": "V6", "version": [1]}, 
+        {"name": "V6", "version": [1,2,3]}, 
         // {"name": "Financial Parameters", "version": [1]},
         // {"name": "Non-Financial Parameter Score", "version": [1,2,3]},
         // {"name": "Green Financing Loan", "version": [1]}

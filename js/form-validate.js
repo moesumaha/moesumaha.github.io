@@ -4,12 +4,22 @@ var config_data = JSON.parse(JSON.stringify(config));
 var spinner = $('#loader');
 
 $(document).ready(function(){
+    // Score Card Name Append
     string = "";
     for (let index = 0; index < config_data.score_card_name.length; index++) {
         score_val = index+1;
         string+="<option value="+score_val+">"+config_data.score_card_name[index].name+"</option>"
     }
     $("#score_card").html(string);
+
+    //  Score Card Version Append
+    score_card_name = $("#score_card").val() -1;
+    version = config_data.score_card_name[score_card_name].version;
+    option="";
+    for (let index = 0; index < version.length; index++) {
+        option+="<option value="+version[index]+">"+version[index]+"</option>"
+    }
+    $("#version").html(option);
 })
 var total = 0;
 owner = "maha";
