@@ -138,7 +138,6 @@ document.getElementById('file').addEventListener("change", (event) => {
 
 function update_version(){
     score_card_name = $("#score_card").val() -1;
-    alert(score_card_name);
     version = config_data.score_card_name[score_card_name].version;
     console.log(version);   
     option="";
