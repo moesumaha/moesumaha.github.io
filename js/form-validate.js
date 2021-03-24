@@ -13,13 +13,7 @@ $(document).ready(function(){
     $("#score_card").html(string);
 
     //  Score Card Version Append
-    score_card_name = $("#score_card").val() -1;
-    version = config_data.score_card_name[score_card_name].version;
-    option="";
-    for (let index = 0; index < version.length; index++) {
-        option+="<option value="+version[index]+">"+version[index]+"</option>"
-    }
-    $("#version").html(option);
+  
     update_version();
 })
 var total = 0;
